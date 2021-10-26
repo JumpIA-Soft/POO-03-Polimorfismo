@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Poo_animales/1.0.0": {
+        "runtime": {
+          "Poo_animales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poo_animales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
